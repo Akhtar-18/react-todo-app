@@ -55,7 +55,7 @@ To start the application locally, run:
 
 ## Components Breakdown
 
-# TodoApp.js
+### TodoApp.js
 
 The main application component that handles:
 
