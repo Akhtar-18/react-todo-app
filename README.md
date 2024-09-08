@@ -27,7 +27,7 @@ src/
 │
 ├── App.js                   # Root component
 └── index.js                 # Application entry point
-
+```
 
 ## Installation
 
@@ -96,4 +96,4 @@ The application fetches todos from a sample API:
 ### https://dummyjson.com/todos
 
 Upon successful fetching, the todos are saved in local storage and used to persist state across page reloads.
-```
+
