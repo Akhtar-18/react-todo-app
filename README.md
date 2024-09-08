@@ -13,19 +13,16 @@ A simple React-based Todo application that allows users to add, delete, and filt
 ## Directory Structure
 
 src/
-│
-├── components/
-│ ├── AddTodo.js # Component for adding new todos
-│ ├── Filter.js # Component for filtering todos
-│ ├── TodoApp.js # Main app component
-│ ├── TodoItem.js # Component representing each todo item
-│ └── TodoList.js # Component that lists all todo items
-│
-├── css/
-│ └── styles.css # Application styles
-│
-├── App.js # Root component
-└── index.js # Application entry point
+    components/
+        AddTodo.js # Component for adding new todos
+        Filter.js # Component for filtering todos
+        TodoApp.js # Main app component
+        TodoItem.js # Component representing each todo item
+        TodoList.js # Component that lists all todo items
+    css/
+        styles.css # Application styles
+App.js # Root component
+index.js # Application entry point
 
 ## Installation
 
